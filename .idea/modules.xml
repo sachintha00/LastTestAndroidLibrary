@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NIC_Detail_Finder.iml" filepath="$PROJECT_DIR$/.idea/modules/NIC_Detail_Finder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/NIC_Detail_Finder.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/NIC_Detail_Finder.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nicdetailfinder/NIC_Detail_Finder.nicdetailfinder.iml" filepath="$PROJECT_DIR$/.idea/modules/nicdetailfinder/NIC_Detail_Finder.nicdetailfinder.iml" />
+    </modules>
+  </component>
+</project>
