@@ -1,4 +1,4 @@
-package com.smd.nicdetailfinder;
+package com.smd.nicdetail;
 
 import org.junit.Test;
 

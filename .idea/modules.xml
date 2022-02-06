@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NIC_Detail_Finder.iml" filepath="$PROJECT_DIR$/.idea/modules/NIC_Detail_Finder.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/NIC_Detail_Finder.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/NIC_Detail_Finder.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nicdetailfinder/NIC_Detail_Finder.nicdetailfinder.iml" filepath="$PROJECT_DIR$/.idea/modules/nicdetailfinder/NIC_Detail_Finder.nicdetailfinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Nic_Detail.iml" filepath="$PROJECT_DIR$/.idea/modules/Nic_Detail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Nic_Detail.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Nic_Detail.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nicdetailfinder/Nic_Detail.nicdetailfinder.iml" filepath="$PROJECT_DIR$/.idea/modules/nicdetailfinder/Nic_Detail.nicdetailfinder.iml" />
     </modules>
   </component>
 </project>
